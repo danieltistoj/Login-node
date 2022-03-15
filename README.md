@@ -12,3 +12,9 @@
 - passport-local: para hacer autenticaciones de manera local
 - bcryptjs: permite cifrar la contraseña
 
+>npm i express mongoose ejs-mate connect-flash morgan passport passport-local bcrypt-nodejs
+- bcrypt-nodejs puede estar obsoleta, asi que instalar alguna de las sugerencias que nos de el instalador 
+## Dependencias de desarrollo 
+- nodemon: Es para no tener que reiniciar el servidor a mano, esto no es un modulo en si, sino una dependencia. Osea que el proyecto puede funcionar sin esto, pero esto nos ayudara a hacer tareas repetitivas
+
+
